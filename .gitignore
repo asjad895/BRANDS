@@ -1,0 +1,27 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+wheels/
+*.egg-info
+chromadb
+
+# venv
+.venv
+
+# env
+.env
+updatedFastextEnv
+
+# rye files
+requirements-dev.lock
+requirements.lock
+pyproject.toml
+.python-version
+src
+projects/
+chromadb/
+orichain_env/
+chromadb_sentence_transformer/
+models/
+ori-enterprise-generative-ai/Ori_AI/models
