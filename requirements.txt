@@ -1,0 +1,1 @@
+orichain @ file:///home/ori/Documents/Ori_chain/indio_dev/ori-enterprise-generative-ai/Ori_AI/dist/orichain-0.9.8-py3-none-any.whl
